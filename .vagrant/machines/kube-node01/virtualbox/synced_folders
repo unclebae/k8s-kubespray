@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"/Users/kidobae/Documents/01.STUDY_SOURCE/Ansible/Kubespray","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
